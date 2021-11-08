@@ -1,0 +1,9 @@
+VS Code - IDE (integrated Development Environment)
+
+code edito like ms word for developers
+
+please open folders instead of creating workspaces
+
+Testing Git
+line8 updated
+line 9 updated
